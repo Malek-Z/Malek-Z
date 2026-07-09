@@ -1,11 +1,9 @@
-::: {align="center"}
 ### Full Stack Developer • AI Engineer
 
 Building scalable products, intelligent systems and premium digital
 experiences.
 
-`<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Malek%20Madadi&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=60"/>`{=html}
-:::
+Image Tag
 
 ------------------------------------------------------------------------
 
@@ -71,25 +69,12 @@ Form](https://img.shields.io/badge/React_Hook_Form-EC5990)
 
 ------------------------------------------------------------------------
 
-## 📈 GitHub Stats
-
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=Malek-Z&show_icons=true)
-
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Malek-Z&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Malek-Z)
-
-------------------------------------------------------------------------
-
 ## 🎯 Current Focus
 
 -   Enterprise Dashboards
 -   AI Applications
 -   Design Systems
 -   Modern SaaS Platforms
--   Open Source Contributions
 
 ------------------------------------------------------------------------
 
@@ -99,6 +84,4 @@ Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Malek-
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 ### "Transforming complex workflows into simple and elegant products."
-:::
