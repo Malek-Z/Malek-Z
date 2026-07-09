@@ -1,9 +1,3 @@
-\#
-
-::: {align="center"}
-Hi 👋 I'm Malek Madadi
-:::
-
 ::: {align="center"}
 ### Full Stack Developer • AI Engineer
 
