@@ -30,11 +30,6 @@ operations, assignments and reporting.
 Modern creator and campaign management platform designed for scalable
 content workflows.
 
-### 🏥 NHT Website
-
-Corporate multilingual platform developed for New Health Technology with
-a strong focus on performance and design.
-
 ------------------------------------------------------------------------
 
 ## 🛠 Tech Stack
