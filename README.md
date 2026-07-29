@@ -3,8 +3,6 @@
 Building scalable products, intelligent systems and premium digital
 experiences.
 
-Image Tag
-
 ------------------------------------------------------------------------
 
 ## 🚀 About Me
@@ -70,12 +68,6 @@ Form](https://img.shields.io/badge/React_Hook_Form-EC5990)
 -   AI Applications
 -   Design Systems
 -   Modern SaaS Platforms
-
-------------------------------------------------------------------------
-
-## 📫 Connect With Me
-
--   GitHub: https://github.com/Malek-Z
 
 ------------------------------------------------------------------------
 
